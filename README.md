@@ -27,3 +27,4 @@ npm test
 Node 20 or newer; no dependencies.
 Prod check: filed from factory.web507.com on 2026-11-26.
 UPDATE: 2026-11-26 17:08
+Merge steps check: 2026-11-26.
