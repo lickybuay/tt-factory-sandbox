@@ -14,6 +14,8 @@ A tiny library with tests, small enough for an agent to change end to end in a f
 import { truncateWords } from "./index.js";
 
 truncateWords("The quick brown fox jumps", 3); // "The quick brown…"
+truncateWords("The quick brown fox jumps", 3, { ellipsis: "..." }); // "The quick brown..."
+truncateWords("The quick brown fox jumps", 3, { ellipsis: "" }); // "The quick brown"
 ```
 
 ## Develop
