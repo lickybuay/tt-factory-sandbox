@@ -1,0 +1,14 @@
+{
+  "name": "tt-factory-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Testing repository for TT Factory. Not production code.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
