@@ -24,7 +24,7 @@ truncateWords("The quick brown fox jumps", 3, { ellipsis: "" }); // "The quick b
 npm test
 ```
 
-Node 20 or newer; no dependencies.
+Node 20 or newer; no dependencies. See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
 Prod check: filed from factory.web507.com on 2026-11-26.
 UPDATE: 2026-11-26 17:08
 Merge steps check: 2026-11-26.
